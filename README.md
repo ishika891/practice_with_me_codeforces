@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 8 |
+| 20 | 8 |
 
 ---
 
@@ -15,8 +15,8 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (3)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (12)
-- [math](#math) (5)
+- [implementation](#implementation) (13)
+- [math](#math) (6)
 - [sortings](#sortings) (1)
 - [strings](#strings) (3)
 - [two pointers](#two-pointers) (5)
@@ -57,6 +57,7 @@
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
@@ -70,6 +71,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 | 1843B | [Long Long](https://codeforces.com/contest/1843/problem/B) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/1843/B%20-%20Long%20Long/solution.java) |
