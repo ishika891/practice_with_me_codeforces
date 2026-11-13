@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 23 | 9 |
+| 24 | 9 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (5)
 - [implementation](#implementation) (15)
-- [math](#math) (9)
+- [math](#math) (10)
 - [sortings](#sortings) (1)
 - [strings](#strings) (3)
 - [two pointers](#two-pointers) (5)
@@ -86,6 +86,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
+| 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.java) |
 | 1843B | [Long Long](https://codeforces.com/contest/1843/problem/B) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/1843/B%20-%20Long%20Long/solution.java) |
 
 ### sortings
