@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 28 | 9 |
+| 29 | 9 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [implementation](#implementation) (18)
 - [math](#math) (12)
 - [sortings](#sortings) (1)
-- [strings](#strings) (5)
+- [strings](#strings) (6)
 - [two pointers](#two-pointers) (5)
 
 ---
@@ -105,6 +105,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 43A | [Football](https://codeforces.com/contest/43/problem/A) | 1000 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/43/A%20-%20Football/solution.java) |
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/58/A%20-%20Chat%20room/solution.java) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/118/A%20-%20String%20Task/solution.java) |
