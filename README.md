@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 35 | 9 |
+| 36 | 9 |
 
 ---
 
@@ -16,10 +16,10 @@
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (8)
-- [implementation](#implementation) (23)
+- [implementation](#implementation) (24)
 - [math](#math) (12)
 - [sortings](#sortings) (2)
-- [strings](#strings) (12)
+- [strings](#strings) (13)
 - [two pointers](#two-pointers) (5)
 
 ---
@@ -80,6 +80,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.java) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.java) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.java) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.java) |
@@ -124,6 +125,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.java) |
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.java) |
 
