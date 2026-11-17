@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 40 | 9 |
+| 41 | 9 |
 
 ---
 
@@ -15,10 +15,10 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (9)
-- [implementation](#implementation) (27)
+- [greedy](#greedy) (10)
+- [implementation](#implementation) (28)
 - [math](#math) (12)
-- [sortings](#sortings) (3)
+- [sortings](#sortings) (4)
 - [strings](#strings) (16)
 - [two pointers](#two-pointers) (5)
 
@@ -54,6 +54,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
+| 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.java) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.java) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
@@ -78,6 +79,7 @@
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
+| 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.java) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/520/A%20-%20Pangram/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
@@ -113,6 +115,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.java) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 
