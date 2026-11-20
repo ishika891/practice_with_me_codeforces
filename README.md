@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 56 | 11 |
+| 57 | 11 |
 
 ---
 
@@ -15,13 +15,13 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (5)
 - [brute force](#brute-force) (10)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [greedy](#greedy) (13)
 - [implementation](#implementation) (39)
 - [math](#math) (16)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (7)
-- [strings](#strings) (16)
+- [strings](#strings) (17)
 - [two pointers](#two-pointers) (8)
 
 ---
@@ -62,6 +62,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.java) |
+| 766A | [Mahmoud and Longest Uncommon Subsequence](https://codeforces.com/contest/766/problem/A) | 1000 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/766/A%20-%20Mahmoud%20and%20Longest%20Uncommon%20Subsequence/solution.java) |
 | 1611B | [Team Composition: Programmers and Mathematicians](https://codeforces.com/contest/1611/problem/B) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/1611/B%20-%20Team%20Composition%3A%20Programmers%20and%20Mathematicians/solution.java) |
 
 ### greedy
@@ -182,6 +183,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/520/A%20-%20Pangram/solution.java) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
+| 766A | [Mahmoud and Longest Uncommon Subsequence](https://codeforces.com/contest/766/problem/A) | 1000 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/766/A%20-%20Mahmoud%20and%20Longest%20Uncommon%20Subsequence/solution.java) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.java) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.java) |
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.java) |
