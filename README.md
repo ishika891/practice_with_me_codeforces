@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 54 | 10 |
+| 55 | 10 |
 
 ---
 
@@ -16,10 +16,10 @@
 - [binary search](#binary-search) (5)
 - [brute force](#brute-force) (10)
 - [constructive algorithms](#constructive-algorithms) (2)
-- [greedy](#greedy) (12)
-- [implementation](#implementation) (37)
+- [greedy](#greedy) (13)
+- [implementation](#implementation) (38)
 - [math](#math) (15)
-- [sortings](#sortings) (6)
+- [sortings](#sortings) (7)
 - [strings](#strings) (16)
 - [two pointers](#two-pointers) (8)
 
@@ -73,6 +73,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.java) |
+| 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.java) |
 | 1360B | [Honest Coach](https://codeforces.com/contest/1360/problem/B) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/1360/B%20-%20Honest%20Coach/solution.java) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.java) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.java) |
@@ -101,6 +102,7 @@
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.java) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
+| 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.java) |
 | 509A | [Maximum in Table](https://codeforces.com/contest/509/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/509/A%20-%20Maximum%20in%20Table/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/520/A%20-%20Pangram/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
@@ -148,6 +150,7 @@
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.java) |
+| 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.java) |
 | 1360B | [Honest Coach](https://codeforces.com/contest/1360/problem/B) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/1360/B%20-%20Honest%20Coach/solution.java) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.java) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [Java 21](https://github.com/ishika891/practice_with_me_codeforces/blob/HEAD/1760/A%20-%20Medium%20Number/solution.java) |
